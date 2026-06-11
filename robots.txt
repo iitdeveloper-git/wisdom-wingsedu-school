@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shyama-public-school-gyanpur.netlify.app/sitemap.xml
+Sitemap: https://shyamapublicschoolgyanpur.netlify.app/sitemap.xml

@@ -4,7 +4,7 @@ Final static website for Shyama Public School, Gyanpur, Bhadohi.
 
 ## Live Site
 
-https://shyama-public-school-gyanpur.netlify.app
+https://shyamapublicschoolgyanpur.netlify.app
 
 ## Pages
 
